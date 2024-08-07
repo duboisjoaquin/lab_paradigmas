@@ -1,0 +1,37 @@
+[
+  {
+    "label": "lmgral",
+    "url": "https://lmdiario.com.ar/default/rss/general.xml",
+    "type": "xml"
+  },
+  {
+    "label": "lmnoti",
+    "url": "https://lmdiario.com.ar/default/rss/noticias.xml",
+    "type": "xml"
+  },
+  {
+    "label": "clareco",
+    "url": "https://www.clarin.com/rss/economia/",
+    "type": "xml"
+  },
+  {
+    "label": "clartec",
+    "url": "https://www.clarin.com/rss/tecnologia/",
+    "type": "xml"
+  },
+  {
+    "label": "clarpol",
+    "url": "https://www.clarin.com/rss/politica/",
+    "type": "xml"
+  },
+  {
+    "label": "ole",
+    "url": "https://www.ole.com.ar/rss/ultimas-noticias/",
+    "type": "xml"
+  },
+  {
+    "label": "bbc",
+    "url": "https://feeds.bbci.co.uk/mundo/rss.xml",
+    "type": "xml"
+  }
+]
